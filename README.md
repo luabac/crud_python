@@ -12,7 +12,7 @@ Este repositório contém um exemplo simples de aplicação CRUD (Create, Read, 
 
 1. Clone este repositório:
 	```bash
-	git clone https://github.com/seu-usuario/seu-repositorio.git
+	git clone https://github.com/luabac/crud_python.git
 	```
 2. Instale a biblioteca necessária:
 	```bash
